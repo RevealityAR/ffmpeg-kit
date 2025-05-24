@@ -246,3 +246,4 @@ See our [CONTRIBUTING](CONTRIBUTING.md) guide.
 - [FFmpeg API Documentation](https://ffmpeg.org/doxygen/4.0/index.html)
 - [FFmpeg Wiki](https://trac.ffmpeg.org/wiki/WikiStart)
 - [FFmpeg External Library Licenses](https://www.ffmpeg.org/doxygen/4.0/md_LICENSE.html)
+- [How to setup](https://medium.com/@ibrahimeltayfe/how-to-compile-ffmpeg-binaries-locally-for-flutter-android-ios-e66d2e109923)

@@ -39,6 +39,7 @@ Set `ANDROID_SDK_ROOT` and `ANDROID_NDK_ROOT` environment variables before runni
 ```
 export ANDROID_SDK_ROOT=<Android SDK Path>
 export ANDROID_NDK_ROOT=<Android NDK Path>
+export $AVA_HOME=<Java 17 Path>
 ```
 
 #### 2.2 Options
